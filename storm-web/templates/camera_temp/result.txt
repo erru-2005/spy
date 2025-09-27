@@ -1,0 +1,10 @@
+ip : 106.219.24.72 
+os name : iOS 
+Version : 18.5 
+Browser Name : Mobile Safari 
+Get Browser Version : 18.5 
+Cpu Name : undefined 
+Resolution : 430x932 
+Time Zone : India Standard Time 
+Language :  en-US 
+Number Of CPU Core :  8
